@@ -1,6 +1,7 @@
 # Assignment on Blang
 
 ## Building with Travis
+[![Build Status](https://travis-ci.org/sohrabsa/blangGradAssignment-scaffold.png?branch=master)](https://travis-ci.org/sohrabsa/blangGradAssignment-scaffold)
 
 ## Prerequisites
 
