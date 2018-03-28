@@ -1,5 +1,7 @@
 # Assignment on Blang
 
+## Building with Travis
+
 ## Prerequisites
 
 I assume you have already done the following (lecture and office hour last week):
